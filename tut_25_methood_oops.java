@@ -115,8 +115,7 @@ class Test {
  
 // Class 2
 // Main class
-class methood_oops {
- 
+class tut_25_methood_oops {
     // Main driver method
     public static void main(String[] args)
     {
