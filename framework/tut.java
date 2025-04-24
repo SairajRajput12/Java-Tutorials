@@ -5,7 +5,7 @@ public class tut{
 	public static void main(String args[]){
 		/* 
 	 	in jdk 1.0 version: 
-				java provides classes, interface,stack,hashtables,properties and dictionary. 
+			java provides classes, interface,stack,hashtables,properties and dictionary. 
 		 in jdk 1.2 version 
 				in this version the collection framework was introduced. 
 			
