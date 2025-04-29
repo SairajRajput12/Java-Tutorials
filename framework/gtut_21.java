@@ -21,7 +21,7 @@ public class gtut_21 {
         // 3] Important Features of a LinkedHashMap are listed as follows: 
                 /*
                         1] A LinkedHashMap contains values based on the key. It implements the Map interface and extends the HashMap class. 
-                       2] It contains only unique elements. 
+                        2] It contains only unique elements. 
                         3] It may have one null key and multiple null values. 
                         4] It is non-synchronized. 
                         5] It is the same as HashMap with an additional feature that it maintains insertion order. For example, when we run the  
@@ -48,7 +48,7 @@ public class gtut_21 {
                    
         */
         
-        // 6] Synchronized LinkedHashMap: 
+        // 6] Non- Synchronized LinkedHashMap 
         // 7] Constructors: 
                 /*
                         1]  LinkedHashMap(): This is used to construct a default LinkedHashMap constructor 

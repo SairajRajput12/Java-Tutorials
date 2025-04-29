@@ -25,7 +25,7 @@ public class gtut_12{
 	
 	HashSet is a set, e.g. {1, 2, 3, 4, 5, 6, 7}.								HashMap is a key -> value pair(key to value) map, e.g. {a -> 1, b -> 2, c -> 2, d -> 1}. 
 	
-	
+
 	*/ 		
 	}
 }

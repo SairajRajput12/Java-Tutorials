@@ -13,7 +13,6 @@ public class gtut_22{
               II]  The keys are sorted either by natural ordering or by a specified comparator.
         
         3] Type Parameters:
-
                 K – the type of keys maintained by this map
                 V – the type of mapped values
         
